@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Flinders/Computer programming 2/Practicals/words/MyVector.h
+
+C:/Flinders/Computer programming 2/Practicals/words/words.cpp
+iostream
+-
+string
+-
+unistd.h
+-
+algorithm
+-
+MyVector.h
+C:/Flinders/Computer programming 2/Practicals/words/MyVector.h
+
